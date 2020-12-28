@@ -7,7 +7,7 @@ from jesse.utils import anchor_timeframe
 
 # trading routes
 routes = [
-    ('Binance', 'BTCUSDT', '4h', 'ExampleStrategy'),
+    ('Bitfinex', 'BTCUSD', '1h', 'ExampleStrategy'),
 ]
 
 # in case your strategy requires extra candles, timeframes, ...
