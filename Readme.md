@@ -1,6 +1,6 @@
 1. Load data:
 
-   ```jesse import-candles "Binance" "BTCUSDT" "2020-01-01" ```
+   ```jesse import-candles "Binance" "BTCUSDT" "2019-11-01" ```
    
 2. Execute optimization:
 
